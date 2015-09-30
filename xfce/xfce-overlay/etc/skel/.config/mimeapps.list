@@ -1,0 +1,5 @@
+[Added Associations]
+application/x-desktop=mousepad.desktop;
+application/xml=org.gnome.gedit.desktop;firefox.desktop;
+text/plain=org.gnome.gedit.desktop;
+text/x-scheme=org.gnome.gedit.desktop;
