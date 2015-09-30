@@ -1,0 +1,136 @@
+######################################################
+### THIS FILE WILL INCLUDE shared/Packages-Desktop ###
+######################################################
+
+## i3 Packages
+accountsservice
+compton
+conky-i3
+dmenu-manjaro
+downgrade
+dunst
+ffmpeg
+ffmpegthumbnailer
+flashplugin
+gconf # fix qt-theme
+gnome-keyring # fix wlan segfault
+gufw # firewall
+>openrc ufw-openrc
+hexchat
+htop
+i3exit
+i3-wm
+i3status-manjaro
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+lxappearance
+manjaro-settings-manager
+# pkgcacheclean
+polkit-gnome
+screenfetch
+scrot
+>openrc timeset
+>openrc ntp-openrc
+tree
+rxvt-unicode
+rxvt-unicode-terminfo
+urxvt-perls
+vi
+xarchiver-gtk2
+xautolock
+xfce4-power-manager
+
+## Applications
+clipit
+gksu
+gnome-vfs
+gparted
+gpicview
+gvfs # trash support and mounting volumes
+gvfs-afc
+gvfs-afp
+gvfs-gphoto2
+gvfs-mtp # for mounting Samsung phones
+gvfs-smb
+libgpod # iPhone/Pod connectivity
+manjaro-welcome
+mhwd-chroot
+mousepad
+nitrogen
+palemoon-bin
+pcmanfm
+pinta
+qpdfview
+open-fuse-iso
+sbxkb
+vlc
+
+## Network
+>openrc bluez-openrc
+blueman
+>systemd netctl
+>systemd networkmanager
+>openrc networkmanager-openrc
+network-manager-applet
+>openrc networkmanager-consolekit
+networkmanager-dispatcher-ntpd
+>systemd networkmanager-openconnect
+networkmanager-openvpn
+>openrc openvpn-openrc
+>systemd networkmanager-pptp
+networkmanager-vpnc
+>systemd openresolv
+# >openrc openresolv-openrc
+>openrc syslog-ng-openrc
+>systemd syslog-ng
+
+## Artwork
+i3-theme-dark
+i3-theme-dust
+# manjaro-artwork
+maia-icon-theme
+xcursor-chameleon-pearl
+xfce-theme-greenbird
+
+## Audio Packages
+alsa-plugins
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer0.10-bad-plugins
+gstreamer0.10-base-plugins
+gstreamer0.10-good-plugins
+gstreamer0.10-ugly-plugins
+flac
+libdvdcss
+manjaro-alsa
+volumeicon
+
+## Package management
+# octopi
+# octopi-notifier-qt4
+# octopi-pacmanhelper
+pamac
+
+## Printing
+manjaro-printer
+>openrc cups-openrc
+
+## AUR Access
+autoconf
+automake
+binutils
+bison
+fakeroot
+flex
+gcc
+git
+libconfig
+libtool
+m4
+make
+patch
+subversion
+yaourt

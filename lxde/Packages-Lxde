@@ -1,0 +1,149 @@
+######################################################
+### THIS FILE WILL INCLUDE shared/Packages-Desktop ###
+######################################################
+
+## Artwork
+manjaro-artwork
+manjaro-documentation
+gtk-engine-murrine	# only to avoid a warning
+
+## LXDE Main Packages
+#faenza-green-icon-theme
+gnome-icon-theme
+#shadow-icon-theme
+vibrantly-green
+gamin
+gksu
+gnome-keyring
+gvfs
+gvfs-afc
+#gvfs-gphoto2
+#gvfs-smb
+#gvfs-mtp
+libgnome
+######## Groupe Lxde
+# lxde
+gpicview
+lxappearance
+lxappearance-obconf
+lxde-common
+#lxde-icon-theme
+lxdm
+lxinput
+lxlauncher
+lxmenu-data
+lxmusic
+lxpanel
+lxrandr
+lxsession
+lxtask
+lxterminal
+openbox
+pcmanfm
+########
+manjaro-settings-manager
+mediterraneanlxqt
+network-manager-applet
+#python2-xdg
+xcursor-simpleandsoft
+xcursor-vanilla-dmz-aa
+#xscreensaver
+#manjaro-welcome
+
+## Network
+netctl
+networkmanager
+networkmanager-dispatcher-ntpd
+openresolv
+
+## Applications
+#catfish
+#evince
+file-roller
+#fwbuilder
+galculator
+#gedit
+gparted
+hexchat
+isousb
+#lxmed
+#midori-bzr
+mlocate
+mousepad
+mpv
+openssh
+packsize
+palemoon-bin
+qpdfview
+#smplayer
+#simple-scan
+synapse
+sylpheed
+transmission-gtk
+udiskie
+udisks
+udisks2
+vi
+cdrdao
+dvd+rw-tools
+virtualgl
+
+## Package management
+#octopi
+#octopi-notifier-qt4
+#octopi-cachecleaner
+#octopi-repoeditor
+pamac
+
+## Fonts
+freetype2-infinality-ultimate
+fontconfig-infinality-ultimate
+ttf-droid
+
+## Extra Applications
+#blueman
+#icedtea-web
+mtpaint
+gifsicle	# for mtpaint
+notification-daemon
+#vinagre
+lm_sensors
+xsensors
+
+## Packages for Sound and Audio
+gst-libav
+gst-plugins-bad
+gst-plugins-good
+gst-plugins-ugly
+gstreamer0.10-bad-plugins
+gstreamer0.10-good-plugins
+gstreamer0.10-ugly-plugins
+flashplugin
+libdvdcss
+manjaro-alsa
+manjaro-pulse
+pavucontrol
+pa-applet
+
+## Office
+#libreoffice-still
+abiword-3.x-gtk2
+#gnumeric
+
+## Printing
+#manjaro-printer
+
+## AUR Access
+autoconf
+automake
+binutils
+bison
+fakeroot
+flex
+gcc
+libtool
+m4
+make
+patch
+#subversion
+yaourt
