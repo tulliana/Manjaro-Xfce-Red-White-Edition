@@ -183,4 +183,4 @@ make
 patch
 subversion
 yaourt
-mugshot
+#mugshot
