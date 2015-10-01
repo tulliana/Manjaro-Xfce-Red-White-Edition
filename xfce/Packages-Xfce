@@ -100,7 +100,7 @@ xfburn
 yelp
 open-fuse-iso
 p7zip
-gedit
+#gedit
 conky-lua
 ttf-comfortaa
 xdotool
