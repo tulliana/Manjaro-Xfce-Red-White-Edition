@@ -105,6 +105,8 @@ conky-lua
 ttf-comfortaa
 xdotool
 screenfetch
+mugshot
+virtualgl
 
 ## Network
 netctl
@@ -184,4 +186,3 @@ make
 patch
 subversion
 yaourt
-mugshot

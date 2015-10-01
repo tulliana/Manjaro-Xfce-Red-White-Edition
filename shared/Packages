@@ -60,6 +60,7 @@ usbutils
 util-linux
 which
 xfsprogs
+manjaro-tools-iso
 
 ## Kernel
 KERNEL
