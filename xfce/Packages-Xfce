@@ -66,6 +66,7 @@ xfce4-xkb-plugin
 ## Applications
 catfish # needed for desktop search
 engrampa-thunar
+chromium
 firefox
 firefox-i18n-tr
 hunspell-en
@@ -78,7 +79,6 @@ gparted
 guayadeque
 gvfs
 gvfs-afc
-gvfs-afp
 gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
