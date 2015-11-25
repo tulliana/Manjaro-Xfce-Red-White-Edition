@@ -100,8 +100,8 @@ xfburn
 yelp
 open-fuse-iso
 p7zip
-#gedit
-conky-lua
+gedit
+#conky-lua
 ttf-comfortaa
 xdotool
 screenfetch
@@ -186,3 +186,6 @@ make
 patch
 subversion
 yaourt
+
+##system
+b43-firmware
