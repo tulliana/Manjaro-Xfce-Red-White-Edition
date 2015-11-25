@@ -186,6 +186,3 @@ make
 patch
 subversion
 yaourt
-
-##system
-b43-firmware
