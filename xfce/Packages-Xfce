@@ -13,7 +13,6 @@ lightdm-gtk-greeter-settings
 light-locker
 manjaro-settings-manager
 menulibre
-mugshot
 network-manager-applet
 networkmanager-openconnect
 networkmanager-openvpn
@@ -66,17 +65,20 @@ xfce4-xkb-plugin
 
 ## Applications
 catfish # needed for desktop search
-engrampa-thunar-plugin
+engrampa-thunar
+chromium
 firefox
+firefox-i18n-tr
+hunspell-en
 galculator-gtk2
 gimp
+inkscape
 gksu
 gnome-vfs
 gparted
 guayadeque
 gvfs
 gvfs-afc
-gvfs-afp
 gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
@@ -86,11 +88,11 @@ manjaro-welcome
 mlocate
 mousepad
 #parole
-pidgin
+#pidgin
 #evince
 #raktpdf
 qpdfview
-thunderbird
+#thunderbird
 viewnior
 vlc
 xfburn
@@ -98,6 +100,13 @@ xfburn
 yelp
 open-fuse-iso
 p7zip
+#gedit
+conky-lua
+ttf-comfortaa
+xdotool
+screenfetch
+mugshot
+virtualgl
 
 ## Network
 netctl
@@ -116,7 +125,7 @@ gnome-themes-standard
 manjaro-artwork
 xfce-theme-greenbird
 plymouth-theme-manjaro-elegant
-xfce4-weather-plugin-menda-circle-icons
+maia-xfce-icon-theme
 
 ## Packages for Sound and Audio
 gst-libav
@@ -142,7 +151,7 @@ pulseaudio-zeroconf
 pamac
 
 ## Games
-steam-manjaro
+#steam-manjaro
 
 ## Fonts
 #adobe-source-sans-pro-fonts
@@ -160,6 +169,7 @@ manjaro-printer
 #abiword
 #gnumeric
 libreoffice-still
+libreoffice-still-tr
 
 ## AUR Access
 autoconf
