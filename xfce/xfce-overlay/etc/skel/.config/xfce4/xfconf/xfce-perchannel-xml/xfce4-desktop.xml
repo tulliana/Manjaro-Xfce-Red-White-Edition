@@ -4,18 +4,35 @@
   <property name="backdrop" type="empty">
     <property name="screen0" type="empty">
       <property name="monitor0" type="empty">
-        <property name="image-path" type="string" value="/usr/share/backgrounds/xfce/manjaro.jpg"/>
-        <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/manjaro.jpg"/>
-        <property name="last-single-image" type="string" value="/usr/share/backgrounds/xfce/manjaro.jpg"/>
+        <property name="image-path" type="string" value="/usr/share/backgrounds/manjaro-red-white-background.svg"/>
+        <property name="last-image" type="string" value="/usr/share/backgrounds/manjaro-red-white-background.svg"/>
+        <property name="last-single-image" type="string" value="/usr/share/backgrounds/manjaro-red-white-background.svg"/>
         <property name="image-style" type="int" value="5"/>
+      </property>
+      <property name="monitorVGA-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/manjaro-red-white-background.svg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/manjaro-red-white-background.svg"/>
+        </property>
       </property>
     </property>
   </property>
   <property name="desktop-icons" type="empty">
     <property name="style" type="int" value="2"/>
     <property name="file-icons" type="empty">
-      <property name="show-removable" type="bool" value="true"/>
+      <property name="show-removable" type="bool" value="false"/>
+      <property name="show-filesystem" type="bool" value="false"/>
     </property>
-    <property name="icon-size" type="uint" value="32"/>
+    <property name="icon-size" type="uint" value="52"/>
+  </property>
+  <property name="last" type="empty">
+    <property name="window-width" type="int" value="652"/>
+    <property name="window-height" type="int" value="530"/>
   </property>
 </channel>
