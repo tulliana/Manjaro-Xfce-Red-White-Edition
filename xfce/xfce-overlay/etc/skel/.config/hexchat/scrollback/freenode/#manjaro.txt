@@ -1,0 +1,5 @@
+T 1448569735 19*	Now talking on 22#manjaro
+T 1448569735 22*	Topic for 22#manjaro is: Welcome to official Manjaro Linux IRC channel | See the Logs @ http://echelog.com/?manjaro | http://www.manjaro.org/ - wiki.manjaro.org -http://irc.manjaro-nl.org | other languages : #manjaro-fr #manjaro-de #manjaro-es #manjaro-br ##manjaro-it #manjaro-fi #manjaro-ru #manjaro-nl
+T 1448569735 22*	Topic for 22#manjaro set by 26ringo32!~ringo_man@unaffiliated/ringo32 (24Thu Nov  5 09:11:16 2015)
+T 1448569735 22*	Channel 22#manjaro url: 24www.manjaro.org/blog
+T 1448569735 -18Afrodite`-	Hi Manjaro-tr, Welcome on #manjaro. PLease use a pastebin service. Like Pastebin or hastebin.com. More information @ irc.manjaro-nl.org

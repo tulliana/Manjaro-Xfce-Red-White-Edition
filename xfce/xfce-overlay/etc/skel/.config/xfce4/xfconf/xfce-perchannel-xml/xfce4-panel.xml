@@ -10,10 +10,13 @@
         <value type="int" value="8"/>
         <value type="int" value="1"/>
         <value type="int" value="12"/>
-        <value type="int" value="9"/>
+        <value type="int" value="11"/>
         <value type="int" value="3"/>
         <value type="int" value="7"/>
         <value type="int" value="4"/>
+        <value type="int" value="10"/>
+        <value type="int" value="13"/>
+        <value type="int" value="9"/>
         <value type="int" value="6"/>
         <value type="int" value="5"/>
         <value type="int" value="2"/>
@@ -21,7 +24,7 @@
       <property name="role" type="string" value="xfce4-panel-12965750720"/>
       <property name="length-adjust" type="bool" value="true"/>
       <property name="background-style" type="uint" value="0"/>
-      <property name="size" type="uint" value="40"/>
+      <property name="size" type="uint" value="35"/>
       <property name="mode" type="uint" value="0"/>
       <property name="autohide-behavior" type="uint" value="0"/>
     </property>
@@ -49,10 +52,12 @@
         <value type="string" value="pnmixer"/>
         <value type="string" value="manjaro-settings-manager-daemon"/>
         <value type="string" value="networkmanager applet"/>
+        <value type="string" value="görev yöneticisi"/>
         <value type="string" value="orage"/>
-        <value type="string" value="xfce terminal"/>
+        <value type="string" value="hexchat"/>
         <value type="string" value="pamac-tray"/>
         <value type="string" value="blueman-applet"/>
+        <value type="string" value="xfce terminal"/>
         <value type="string" value="clipman"/>
         <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="pa-applet"/>
@@ -69,14 +74,30 @@
     <property name="plugin-8" type="string" value="whiskermenu"/>
     <property name="plugin-5" type="string" value="clock"/>
     <property name="plugin-1" type="string" value="showdesktop"/>
-    <property name="plugin-9" type="string" value="launcher">
+    <property name="plugin-9" type="string" value="screenshooter"/>
+    <property name="plugin-10" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="14428364551.desktop"/>
+        <value type="string" value="14485691351.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-11" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14485691372.desktop"/>
       </property>
     </property>
     <property name="plugin-12" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="14428428161.desktop"/>
+        <value type="string" value="14485691403.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-13" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14485692304.desktop"/>
+      </property>
+    </property>
+    <property name="clipman" type="empty">
+      <property name="tweaks" type="empty">
+        <property name="never-confirm-history-clear" type="bool" value="false"/>
       </property>
     </property>
   </property>

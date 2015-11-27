@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-web-browser.desktop,exo-mail-reader.desktop,pamac-manager.desktop
-recent=xfce-display-settings.desktop,xfce-ui-settings.desktop,lightdm-gtk-greeter-settings.desktop
+recent=xfce-settings-manager.desktop
 button-title=Uygulamalar
 button-icon=manjaro-tr-start-menu
 button-single-row=false

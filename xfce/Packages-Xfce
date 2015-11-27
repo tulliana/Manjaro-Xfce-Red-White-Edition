@@ -66,7 +66,6 @@ xfce4-xkb-plugin
 ## Applications
 catfish # needed for desktop search
 engrampa-thunar
-chromium
 firefox
 firefox-i18n-tr
 hunspell-en
@@ -100,7 +99,7 @@ xfburn
 yelp
 open-fuse-iso
 p7zip
-gedit
+#gedit
 #conky-lua
 ttf-comfortaa
 xdotool
