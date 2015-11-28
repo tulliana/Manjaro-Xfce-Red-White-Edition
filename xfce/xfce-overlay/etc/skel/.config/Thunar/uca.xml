@@ -19,7 +19,7 @@
 	<directories/>
 </action>
 <action>
-	<icon>preferences-system-search</icon>
+	<icon>edit-find-replace</icon>
 	<name>Sistemde Arama Yap</name>
 	<unique-id>1367866030392913-3</unique-id>
 	<command>catfish %f</command>
@@ -28,7 +28,7 @@
 	<directories/>
 </action>
 <action>
-	<icon>show-hidden</icon>
+	<icon>folder-move</icon>
 	<name>Gizli Dosyaları Göster/Gizle</name>
 	<unique-id>1367866030392832-2</unique-id>
 	<command>xdotool key "ctrl+h"</command>

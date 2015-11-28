@@ -21,6 +21,18 @@
           <property name="last-image" type="string" value="/usr/share/backgrounds/manjaro-red-white-wallpaper.svg"/>
         </property>
       </property>
+      <property name="monitorVGA-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/manjaro-red-white-wallpaper.svg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/manjaro-red-white-wallpaper.svg"/>
+        </property>
+      </property>
     </property>
   </property>
   <property name="desktop-icons" type="empty">

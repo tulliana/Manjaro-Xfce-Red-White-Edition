@@ -80,11 +80,6 @@
         <value type="string" value="14485691351.desktop"/>
       </property>
     </property>
-    <property name="plugin-11" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="14485691372.desktop"/>
-      </property>
-    </property>
     <property name="plugin-12" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="14485691403.desktop"/>
@@ -98,6 +93,11 @@
     <property name="clipman" type="empty">
       <property name="tweaks" type="empty">
         <property name="never-confirm-history-clear" type="bool" value="false"/>
+      </property>
+    </property>
+    <property name="plugin-11" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14487263781.desktop"/>
       </property>
     </property>
   </property>

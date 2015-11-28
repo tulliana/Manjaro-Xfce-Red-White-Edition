@@ -116,15 +116,17 @@ blueman
 
 ## Artwork
 menda-circle-icon-theme
-faenza-green-icon-theme
+#faenza-green-icon-theme
 gtk-theme-ceti
 menda-themes
 menda-themes-dark
-gnome-themes-standard
+#gnome-themes-standard
 manjaro-artwork
 xfce-theme-greenbird
 plymouth-theme-manjaro-elegant
 maia-xfce-icon-theme
+vivacious-color-icon-theme
+
 
 ## Packages for Sound and Audio
 gst-libav
