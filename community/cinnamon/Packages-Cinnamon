@@ -1,0 +1,152 @@
+######################################################
+### THIS FILE WILL INCLUDE shared/Packages-Desktop ###
+######################################################
+
+## Artwork
+manjaro-artwork
+
+## Cinnamon
+cinnamon
+cinnamon-desktop
+cinnamon-session
+cinnamon-settings-daemon
+cinnamon-translations
+cinnamon-control-center
+cinnamon-screensaver
+cinnamon-theme-minty
+cinnamon-power-applet
+cinnamon-menus
+cjs
+muffin
+nemo
+nemo-fileroller
+nemo-preview
+nemo-python
+nemo-share
+
+## GNOME related stuf
+#ffmpegthumbnailer
+file-roller
+medit
+#glade
+gnome-disk-utility
+gnome-keyring
+gnome-system-monitor
+#gnome-terminal
+terminator
+gnome-vfs
+#gtksourceview3
+icon-naming-utils
+mousetweaks
+#mutter
+python2-gnomecanvas
+python2-gnomevfs
+python2-libgnome
+xdg-user-dirs-gtk
+
+## polkit
+polkit-gnome
+polkit
+gksu
+
+## Network
+netctl
+networkmanager
+networkmanager-dispatcher-ntpd
+openresolv
+net-tools
+
+## Extra
+jre8-openjdk
+icedtea-web
+vlc
+guayadeque
+pidgin
+pidgin-libnotify
+
+## Theme
+faenza-green-icon-theme
+menda-themes
+menda-themes-dark
+menda-icon-themes
+xfce-theme-greenbird
+gtk-theme-vertex
+
+#plymouth
+#plymouth-theme-manjaro-elegant
+
+## Other Applications
+gparted
+evince
+firefox
+thunderbird
+imagewriter
+ttf-droid
+#mdm
+#mdm-themes
+lightdm-gtk3-greeter
+lightdm-gtk-greeter-settings
+viewnior
+flashplugin
+numlockx
+#p7zip
+udiskie
+udisks
+udisks2
+gvfs
+gvfs-afc
+gvfs-afp
+gvfs-gphoto2
+gvfs-mtp
+gvfs-smb
+pavucontrol
+openssh
+hexchat
+exfat-utils
+fuse-exfat
+nss
+
+## Package management
+pamac
+manjaro-welcome
+manjaro-settings-manager
+
+## Packages for Sound and Audio
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer0.10-bad-plugins
+gstreamer0.10-base-plugins
+gstreamer0.10-good-plugins
+gstreamer0.10-ugly-plugins
+flashplugin
+libdvdcss
+manjaro-alsa
+manjaro-pulse
+pavucontrol
+pulseaudio-ctl
+#zscreen # from exeternal repo, aur package
+
+## Printing
+manjaro-printer
+
+## Office
+libreoffice-still
+zim
+
+## AUR Access
+autoconf
+automake
+binutils
+bison
+fakeroot
+flex
+gcc
+libtool
+m4
+make
+patch
+subversion
+yaourt

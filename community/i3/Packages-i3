@@ -1,0 +1,153 @@
+######################################################
+### THIS FILE WILL INCLUDE shared/Packages-Desktop ###
+######################################################
+
+## i3 Packages
+accountsservice
+compton
+conky-i3
+dmenu-manjaro
+downgrade
+dunst
+ffmpeg
+ffmpegthumbnailer
+flashplugin
+gconf # fix qt-theme
+gnome-keyring # fix wlan segfault
+gufw # firewall
+>openrc ufw-openrc
+hexchat
+htop
+i3exit
+i3-gaps
+i3status-manjaro
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+lxappearance
+manjaro-settings-manager
+p7zip
+polkit-gnome
+ranger
+screenfetch
+scrot
+>openrc timeset
+>openrc ntp-openrc
+tree
+rxvt-unicode
+rxvt-unicode-terminfo
+urxvt-perls
+vi
+xarchiver-gtk2
+xautolock
+xfce4-power-manager
+xorg-xkill
+xorg-xprop
+
+## Applications
+arandr
+# bashmount (AUR)
+bmenu
+clipit
+dfc
+gcolor2
+gksu
+gnome-vfs
+gparted
+gpicview
+gvfs # trash support and mounting volumes
+gvfs-afc
+gvfs-gphoto2
+gvfs-mtp # for mounting Samsung phones
+gvfs-smb
+isousb
+libgpod # iPhone/Pod connectivity
+manjaro-welcome
+# eventually add upower-pm-utils; it seems to depend on DE features; take what works default is upower
+>openrc upower-pm-utils
+moc
+mousepad
+ncdu
+nitrogen
+palemoon-bin
+perl-file-mimeinfo
+pcmanfm
+pinta
+qpdfview
+open-fuse-iso
+sbxkb
+speedtest-cli
+vlc
+w3m
+xterm
+
+## Network
+>openrc bluez-openrc
+blueman
+>systemd netctl
+>systemd networkmanager
+>openrc networkmanager-openrc
+network-manager-applet
+>openrc networkmanager-consolekit
+networkmanager-dispatcher-ntpd
+>systemd networkmanager-openconnect
+networkmanager-openvpn
+>systemd openssh
+>openrc openssh-openrc
+>openrc openvpn-openrc
+>systemd networkmanager-pptp
+networkmanager-vpnc
+>systemd openresolv
+>openrc syslog-ng-openrc
+>systemd syslog-ng
+json-c			# for syslog-ng
+
+## Artwork
+awoken-icon-theme-light
+i3-theme-dark
+i3-theme-dust
+i3-wallpapers
+maia-icon-theme
+xcursor-chameleon-pearl
+xfce-theme-greenbird
+
+## Audio Packages
+>openrc alsa-utils-openrc
+>systemd alsa-utils
+alsa-plugins
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer0.10-bad-plugins
+gstreamer0.10-base-plugins
+gstreamer0.10-good-plugins
+gstreamer0.10-ugly-plugins
+flac
+libdvdcss
+manjaro-alsa
+volumeicon
+
+## Package management
+pamac
+
+## Printing
+manjaro-printer
+>openrc cups-openrc
+
+## AUR Access
+autoconf
+automake
+binutils
+bison
+fakeroot
+flex
+gcc
+git
+libconfig
+libtool
+m4
+make
+patch
+subversion
+yaourt

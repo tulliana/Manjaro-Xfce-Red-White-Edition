@@ -1,0 +1,144 @@
+######################################################
+### THIS FILE WILL INCLUDE shared/Packages-Desktop ###
+######################################################
+
+## Artwork
+xcursor-menda
+menda-themes
+menda-themes-dark
+menda-circle-icon-theme
+libgnomeui
+gconf
+gnome-themes-standard
+plymouth-theme-manjaro-elegant
+
+## MATE Main Packages
+mate-gtk3
+mate-extra-gtk3
+galculator-gtk2
+
+## Network
+blueman
+netctl
+networkmanager
+networkmanager-dispatcher-ntpd
+openresolv
+network-manager-applet
+networkmanager-openconnect
+networkmanager-openvpn
+networkmanager-pptp
+networkmanager-vpnc
+
+## Connect Packages
+udiskie
+udisks
+udisks2
+mtpfs
+gvfs
+gvfs-afc
+gvfs-gphoto2
+gvfs-mtp
+gvfs-smb
+open-fuse-iso
+android-tools
+android-udev
+
+## Display Manager
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+
+## Applications
+brasero
+flashplugin
+firefox
+gksu
+gparted
+gnome-vfs
+hexchat
+isousb
+gnome-keyring
+manjaro-settings-manager
+manjaro-welcome
+thunderbird
+deluge
+pygtk
+librsvg
+python2-mako
+vlc
+guayadeque
+poppler-glib
+gufw
+accountsservice
+catfish
+p7zip
+mlocate
+pidgin
+yelp
+libappindicator-gtk2
+libappindicator-gtk3
+
+## Games
+steam-manjaro
+
+## Java
+jdk8-openjdk
+jre8-openjdk-headless
+jre8-openjdk
+icedtea-web
+
+## Packages for Sound and Audio
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer0.10-bad-plugins
+gstreamer0.10-base-plugins
+gstreamer0.10-good-plugins
+gstreamer0.10-ugly-plugins
+libdvdcss
+manjaro-alsa
+manjaro-pulse
+pavucontrol
+pulseaudio-bluetooth
+pulseaudio-ctl
+pulseaudio-zeroconf
+python-pyqt4
+
+## Package management
+pamac
+
+## Fonts
+cantarell-fonts
+ttf-droid
+adobe-source-sans-pro-fonts
+
+## Office
+libreoffice-still
+
+## AUR Support/Development
+# Missing base-devel packages
+autoconf
+automake
+binutils
+bison
+fakeroot
+flex
+>x86_64 gcc-multilib
+>i686 gcc
+libtool
+m4
+make
+patch
+>x86_64 lib32-flex
+# Extra packages for AUR support
+git
+patchutils
+svn
+yaourt
+openssh
+samba
+
+## Printing
+manjaro-printer
