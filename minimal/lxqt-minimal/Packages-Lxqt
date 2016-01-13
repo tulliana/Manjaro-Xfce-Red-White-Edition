@@ -4,6 +4,7 @@
 
 ###lxqt###
 lxqt
+manjaro-lxqt-minimal-settings
 
 >openrc networkmanager-openrc
 >systemd networkmanager
@@ -35,6 +36,7 @@ cantarell-fonts
 xcursor-menda
 maia-icon-theme
 gtk-theme-maia
+maia-wallpaper
 
 ###Openbox###
 openbox

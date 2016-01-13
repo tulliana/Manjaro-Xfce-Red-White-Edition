@@ -52,6 +52,10 @@ system-tools-backends
 
 network-manager-applet
 ## Applications
+#our desktop settings
+sonar-mate-settings
+#our installer branding
+#sonar-calamares-branding-mate
 isousb
 udiskie
 udisks
@@ -83,6 +87,7 @@ mousetweaks
 adwaita-manjaro-themes
 menda-themes
 menda-circle-icon-theme
+manjaro-backgrounds
 
 #standard media playing software.
 libgpod #for management of apple iPod, iPhone, etc devices

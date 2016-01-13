@@ -4,6 +4,7 @@
 
 ## i3 Packages
 accountsservice
+#alternating-layouts
 compton
 conky-i3
 dmenu-manjaro
@@ -24,6 +25,7 @@ i3status-manjaro
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 lxappearance
+manjaro-i3-settings
 manjaro-settings-manager
 p7zip
 polkit-gnome
@@ -102,10 +104,10 @@ networkmanager-vpnc
 json-c			# for syslog-ng
 
 ## Artwork
+artwork-i3
 awoken-icon-theme-light
 i3-theme-dark
 i3-theme-dust
-i3-wallpapers
 maia-icon-theme
 xcursor-chameleon-pearl
 xfce-theme-greenbird
@@ -151,3 +153,5 @@ make
 patch
 subversion
 yaourt
+
+manjaro-i3-settings

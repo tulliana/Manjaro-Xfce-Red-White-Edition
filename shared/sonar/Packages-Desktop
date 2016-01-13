@@ -1,5 +1,5 @@
 ## Artwork
-manjaro-artwork
+manjaro-backgrounds
 xcursor-simpleandsoft
 xcursor-vanilla-dmz-aa
 faenza-green-icon-theme
@@ -43,8 +43,6 @@ sox
 #command line web browser
 elinks
 
-#espeakup
-espeakup
 
 #some useful cli apps
 screen
@@ -158,6 +156,10 @@ soundconverter #for audio formats and video if all you want is the audio
 gnome-software
 
 #standard applications
+#our custom backgrounds
+sonar-backgrounds
+#our isolinux branding
+sonar-isolinux
 firefox
 thunderbird
 bleachbit
@@ -256,8 +258,7 @@ orca
 #library for orca plugins
 libpeas
 speech-dispatcher
-#sonar specific branch of brltty
-brltty-sonar
+brltty
 eviacam
 open-dyslexic-fonts
 qt-at-spi
